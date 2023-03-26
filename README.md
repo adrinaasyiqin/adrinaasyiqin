@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrina Asyiqin
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Adrina Asyiqin
 ======================================================================================================================================
 
 Currently a 3rd year student in Data Engineering at University Teknologi Malaysia.
 
-* 🌍  I'm based in Malaysia
+* 🌍  I'm based in Shah Alam, Malaysia
 * ✉️  You can contact me at [adrinaasyiqin38@gmail.com](mailto:adrinaasyiqin38@gmail.com)
-* 🚀  I'm currently working on [Netflix reccommendation system](http://github.com/drshahizan/special-topic-data-engineering/tree/main/project/proposal/CodeX)
-* 🧠  I'm learning MongoDB, Visual Studio Code, and Laravel
+* 🚀  At the moment working on [Netflix reccommendation system](http://github.com/drshahizan/special-topic-data-engineering/tree/main/project/proposal/CodeX)
+* 🧠  Currently learning MongoDB, Visual Studio Code, and Laravel
 * ⚡  Future billionaire (real)
 
 <a href="https://www.github.com/adrinaasyiqin" target="_blank" rel="noreferrer"><img
