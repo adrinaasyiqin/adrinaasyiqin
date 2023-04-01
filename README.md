@@ -1,9 +1,7 @@
 
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Adrina Asyiqin
 ======================================================================================================================================
-<p align="left">
-<img height='200px' src='AvatarMaker.png'/>
-</p>
+
 Currently a 3rd year student in Data Engineering at University Teknologi Malaysia.
 
 * 🌍  I'm based in Shah Alam, Malaysia
