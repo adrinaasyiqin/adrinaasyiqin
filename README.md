@@ -2,6 +2,8 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my profile
 ======================================================================================================================================
 
+![](https://komarev.com/ghpvc/?adrinaasyiqin)
+
 Currently a 3rd year student in Data Engineering at University Teknologi Malaysia.
 
 * 👩🏽  My name is Adrina Asyiqin Md Adha
